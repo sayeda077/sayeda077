@@ -14,6 +14,6 @@ I have a background in Computer Science and Engineering, with experience in Mach
 
 **Languages:** Python, JavaScript, C, C++  
 **AI/ML:** Machine Learning, Deep Learning, NLP, LLMs, TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy  
-**Web Development:** HTML, CSS, Bootstrap, Django, Angular, TypeScript  
+**Web Development:** HTML, CSS, SCSS, Bootstrap, Django, Angular, 
 **Tools:** Git, GitHub, Jupyter Notebook, Docker, GitHub Actions, Jira, LaTeX  
 **Design:** Figma, Adobe Photoshop, Wireframing, Prototyping
