@@ -6,7 +6,7 @@ I have a background in Computer Science and Engineering, with experience in Mach
 ## About Me
 
 -  M.Sc. in Artificial Intelligence
--  Interested in Machine Learning, Deep Learning, LLMs, AI Agents, and Automation
+-  Interested in Machine Learning, Deep Learning, NLP, LLMs, and AI-based predictive systems.
 -  Currently improving my skills in Generative AI, LangGraph, and real-world AI applications
 -  Research experience in deep learning, computer vision, and time-series data
 
