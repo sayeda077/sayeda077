@@ -1,7 +1,7 @@
 # Hi, I'm Sayeda 👋
 
 I am currently pursuing my Master's degree in Artificial Intelligence at Friedrich-Alexander University Erlangen-Nürnberg, Germany.  
-I have a background in Computer Science and Engineering, with experience in machine learning, deep learning, UI/UX design, and web development.
+I have a background in Computer Science and Engineering, with experience in machine learning, deep learning, UI/UX design, and web development. My research interests include deep learning, machine learning, computer vision, image processing, NLP, LLM, and AI-based predictive systems.
 
 ## About Me
 
